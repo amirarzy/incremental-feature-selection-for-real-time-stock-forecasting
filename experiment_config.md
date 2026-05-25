@@ -13,7 +13,7 @@
 - Original Source Table: `staging.canonical_1m_rth`
 - Market Session: Regular Trading Hours (RTH)
 - Data Frequency: 1-minute bars
-- Code Version / Git Commit: 7b54655
+- Code Version / Git Commit: latest pushed commit on main branch
 - Final Run Date: TBD after final full rerun
 
 ---
